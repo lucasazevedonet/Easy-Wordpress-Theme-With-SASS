@@ -15,4 +15,5 @@ Create flexible wordpress themes. SASS is very helpful when writing stylesheets.
 ```
 cd your directory theme
 compass watch
+
 ```
